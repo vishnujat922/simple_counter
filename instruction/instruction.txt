@@ -1,0 +1,20 @@
+useReducer(<reducerFunction>, <initialState>).
+
+useReducer function Accept
+1. oldState
+2. Actions
+
+and Return is newState;Let create a simple calculator 
+1. oldState = 0
+2. Action
+ 2.1. Addition (+) by 1 Value
+ 2.2. Substraction (-) by 1 Value
+ 2.3. Multiplication (*) by 1 Value
+ 2.3. Division (/) by 1 Value
+
+Action Object Has 2 Part
+1. Action 
+2. Payload
+
+Action Names are always in Capital Letter
+Action Are always supplier in "type" property
